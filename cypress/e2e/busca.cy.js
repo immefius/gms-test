@@ -10,7 +10,7 @@ describe("US-00: Funcionalidade: Busca de filmes", () => {
   });
 
   it("Deve buscar filme com sucesso", () => {
-    cy.get("#search-input").type("Avengers");
+    cy.get("#search-input").type("Aven555455s");
     cy.get("#search-button").click();
     cy.get("#results-section").should("contain", "Avengers");
   });
