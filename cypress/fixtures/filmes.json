@@ -1,0 +1,23 @@
+[
+    {
+        "titulo": "Matrix",
+        "ano": 2000,
+        "descricao": "Esse filme blabla"   
+    },
+
+    {
+        "titulo": "Avengers",
+        "ano": 2012,
+        "descricao": "Esse filme blabla"   
+    },
+    {
+        "titulo": "Batman",
+        "ano": 2021,
+        "descricao": "Esse filme blabla"   
+    },
+    {
+        "titulo": "Inception",
+        "ano": 2010,
+        "descricao": "Esse filme blabla"   
+    }
+]
